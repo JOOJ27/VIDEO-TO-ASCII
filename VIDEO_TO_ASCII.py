@@ -36,7 +36,7 @@ def check_click(key):
 
 text_box = [
     {"x": 0, "y": 70, "content": "pressione 'q' para sair", "color_pair": 1},
-    {"x": 1, "y": 70, "content": "pression 'c' para trocar de cor", "color_pair": 1},
+    {"x": 1, "y": 70, "content": "pressione 'c' para trocar de cor", "color_pair": 1},
     {"x": 2, "y": 70, "content": "pressione 't' para mudar o tipo", "color_pair": 1},
 ]
 
